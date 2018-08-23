@@ -35,6 +35,7 @@ set(
     -O3 
 	-gencode arch=compute_53,code=sm_53
 	-gencode arch=compute_62,code=sm_62
+	-gencode arch=compute_72,code=sm_72
 )
 
 
